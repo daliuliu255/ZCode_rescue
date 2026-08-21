@@ -6,6 +6,8 @@ This is a Zcode client tool for restoring context, project task data, and custom
 
 # ZCode 修复工具 使用说明
 
+## 不欢迎任何Linux.do论坛的用户使用，Linux.do的喜欢封号和禁言的傻逼，给老子去死！
+
 ## 功能概述
 
 ZCode 修复工具用于解决 ZCode 因 `setting.json` 被全零字节(0x00)填充损坏，导致左侧项目/任务列表丢失的问题。工具会从 `tasks-index.sqlite` 提取全部项目和任务，自动生成修复版 `setting.json`，恢复项目列表显示。
