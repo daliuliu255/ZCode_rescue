@@ -6,7 +6,9 @@ This is a Zcode client tool for restoring context, project task data, and custom
 
 # ZCode 修复工具 使用说明
 
-## 不欢迎任何Linux.do论坛的用户使用，Linux.do的喜欢封号和禁言的傻逼，给老子去死！
+## 不欢迎任何Linux.do论坛的用户使用，论坛用户的存在就是助长垃圾管理和垃圾举报人员的存在！
+## Linux.do的喜欢封号和禁言的傻逼，给老子去死！
+
 
 ## 功能概述
 
